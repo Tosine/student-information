@@ -1,6 +1,3 @@
-
-
-
 ## A description of what the project is for.
 
 This should answer a short list of basic questions:
